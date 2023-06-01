@@ -1,7 +1,7 @@
 # Leaflet Maps with Google Sheets
 ## Live links
-- Leaflet Map https://vcolaprice1.github.io/PUGLIA_borghimapsheet_demo/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1Nxrmw8U4TQ1zLByEGLqsjsMrgTGn3BsN-SwvoNtA17M/edit#gid=0
+- Leaflet Map https://vcolaprice1.github.io/geomap/
+- Google Sheets template https://docs.google.com/spreadsheets/d/1fnNhR2o8W7xoLml2SRwXlsODUkckE6oVwQmnVexjThI/edit#gid=0
 - Tutorial https://handsondataviz.org/leaflet-maps-with-google-sheets.html
 
 #### Geocode your address data with Google Sheets add-on
